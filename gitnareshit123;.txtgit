@@ -1,0 +1,11 @@
+package nareshit123;
+
+public class ClassD {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        int num = 4;
+        int square = num * num;
+        System.out.println(square);
+    }
+}
